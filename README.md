@@ -1,4 +1,5 @@
 # ArduinoGame
+A simple stick man runner game made using I2C Lcd , IR sensor , Arduino ( atmel chips based microcontroller).
 A demo video is down here 
 
 
